@@ -10,6 +10,8 @@ namespace CredScanGitHubTestRepo
     {
         static void Main(string[] args)
         {
+            var bytes = System.IO.File.ReadAllBytes(@"[test_cert_path]");
+            Console.WriteLine(Convert.ToBase64String(bytes));
         }
     }
 }
