@@ -11,12 +11,6 @@ namespace CredScanGitHubTestRepo
     {
         static void Main(string[] args)
         {
-            var certPath = @"path";
-            var bytes = System.IO.File.ReadAllBytes(certPath);
-            var b64str = Convert.ToBase64String(bytes);
-            Console.WriteLine(b64str);
-            var cert = new X509Certificate2(bytes);
-            Console.WriteLine(cert.Thumbprint);
         }
     }
 }
