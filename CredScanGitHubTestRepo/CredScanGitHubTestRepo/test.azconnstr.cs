@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace CredScanGitHubTestRepo
 {
-    class test
+
+    class TestAzureSqlConnectionStringMonitoring
     {
+        // This is a mockup sql azure connection string to be detected.
         string connstr = "Data Source=tcp:aaa.database.windows.net,1433;Initial Catalog=bbb;Integrated Security=False;User ID=ccc@ww4wobk87p;Password=ddd;";
     }
 }
