@@ -8,6 +8,6 @@ namespace CredScanGitHubTestRepo
 {
     class ServiceBusAccessKey
     {
-        static string ConnStr = "Endpoint=sb://test.servicebus.windows.net;SharedAccessKey=aaaaabaaaaaaaaaaaaaaaaacdefjklmnopqrst01234=;";
+        static string ConnStr = "Endpoint=sb://test.servicebus.windows.net;SharedAccessKey=abcdefghijklmnopqrstuvwcdefjklmnopqrst01234=;";
     }
 }
