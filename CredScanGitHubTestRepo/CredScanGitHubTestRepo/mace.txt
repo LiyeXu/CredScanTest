@@ -1,3 +1,3 @@
 TenenatId="1f535d37-87de-41b4-8162-20e3f9a9d062";
 ClientId="9976b0e0-1c39-45b5-8059-5267759be1c0";
-AppSecret="VI=Yc7BmR-.6UQC.(<#K44+4"%Lb6Uj+b'"; // mockup secret for CredScan testing
+AppSecret="}9J*W_F5m(k$d4ERD*9K*)HOt6O]7pZ"; // mockup secret for CredScan testing
