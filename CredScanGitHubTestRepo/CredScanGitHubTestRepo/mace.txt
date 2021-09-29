@@ -1,0 +1,3 @@
+TenenatId="1f535d37-87de-41b4-8162-20e3f9a9d062";
+ClientId="9976b0e0-1c39-45b5-8059-5267759be1c0";
+AppSecret="5)<1[bcW50l>4pC%3NK,T/yaHgu2_;"; // mockup secret for CredScan testing
